@@ -26,6 +26,7 @@ Airplane.prototype.land = function () {
 // 👇 COMPLETE YOUR WORK BELOW 👇
 */
 
+
 /*
   TASK 1
     - Write a Person Constructor that initializes `name` and `age` from arguments.
